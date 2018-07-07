@@ -1,3 +1,3 @@
 var c='Hello';
-const t=1;
+const t=2;
 console.log(c);
